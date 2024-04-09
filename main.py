@@ -1,2 +1,2 @@
 print("oi mundo")
-print("não vai")
+print("vai lá")
